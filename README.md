@@ -105,7 +105,7 @@ Anyone who is a participant of LG Aimers 6th cohort can join.
 
 ## Competition Schedule
 
-- **Competition Period**: From February 1 to 27, 2025
+- **Competition Period**: 2025/02/01 ~ 2025/02/27
 
 ## References
 
