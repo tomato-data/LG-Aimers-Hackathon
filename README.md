@@ -45,3 +45,69 @@ LG Aimers 6기 교육생이라면 누구나 참가 가능합니다.
 - 주요 예측 특성 도출 및 모델 성능 개선
 - AI 모델을 통해 난임 치료의 효율성을 높이는 혁신적인 솔루션 제공
 
+## 대회 일정
+
+- **대회 기간**: 2025/02/01 ~ 2025/02/27
+
+## 참고 논문
+
+- [Machine learning predicts live-birth occurrence before in-vitro fertilization treatment](https://www.nature.com/articles/s41598-020-76928-z)
+- [Personalized prediction of live birth prior to the first in vitro fertilization treatment: a machine learning method](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-019-2062-5)
+
+---
+
+# LG-Aimers-Hackathon
+
+# Development of an AI Model for Predicting Pregnancy Success in Infertile Patients
+
+## Background
+
+Infertility is an increasingly significant medical issue worldwide, causing many couples to endure prolonged physical and mental burdens. Patients undergoing infertility treatments experience high costs and psychological stress during the treatment process, making it crucial to enhance the chances of pregnancy success with minimal interventions.
+
+In response to this demand, medical institutions are showing great interest in AI-based predictive models for pregnancy success. AI-driven solutions can analyze vast amounts of infertility treatment data to support optimal decision-making and help establish personalized treatment plans for patients. This will not only reduce the burden on patients but also serve as a critical competitive factor for medical institutions to provide differentiated services.
+
+This hackathon focuses on developing AI models that predict 'pregnancy success' using infertility patient data and exploring the optimal characteristics that determine pregnancy. Through this, Aimers can analyze real medical data and build predictive models, seeking innovative ways to enhance the efficiency of infertility treatments.
+
+## Topic
+
+### Development of an AI Model for Predicting Pregnancy Success in Infertile Patients
+
+## Description
+
+We need to analyze infertility patient data to derive key factors influencing pregnancy success and develop the optimal AI model for accurate predictions.
+
+**Pregnancy Success**: A pregnancy that successfully progresses to childbirth.
+
+The online hackathon (Phase 2) will assess the problem-solving abilities of participants to select approximately 100 candidates for the offline hackathon (Phase 3).
+
+The offline hackathon (Phase 3) will be conducted over two days and one night, with the same topic as the online hackathon (Phase 2).
+
+## Organizer / Host
+
+- **Organizer**: LG AI Research Institute
+- **Host**: Dacon
+- **Participation**: Hankyung.com
+
+## Eligibility
+
+Anyone who is a participant of LG Aimers 6th cohort can join.
+
+- Participation is possible regardless of completion of Phase 1 (online AI training).
+- After clicking the participation button, fill in your name and the email used for LG Aimers registration in the pop-up window (the Dacon account email and LG Aimers email do not need to match).
+- Only participants who have completed both Phase 1 and Phase 2 can join Phase 3 (offline hackathon). If you have not completed Phase 1, you cannot participate in Phase 3, even if you perform well in Phase 2.
+- For LG Aimers participants with issues related to participation, please contact [dacon@dacon.io](mailto:dacon@dacon.io).
+
+## Project Goals
+
+- Develop a predictive model for pregnancy success based on infertility patient data.
+- Derive key predictive characteristics and improve model performance.
+- Provide innovative solutions to enhance the efficiency of infertility treatments through AI models.
+
+## Competition Schedule
+
+- **Competition Period**: From February 1 to 27, 2025
+
+## References
+
+- [Machine learning predicts live-birth occurrence before in-vitro fertilization treatment](https://www.nature.com/articles/s41598-020-76928-z)
+- [Personalized prediction of live birth prior to the first in vitro fertilization treatment: a machine learning method](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-019-2062-5)
